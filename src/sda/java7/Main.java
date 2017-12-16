@@ -16,6 +16,7 @@ public class Main {
         animals.add(girrafe);
 
         System.out.println("cos tam");
+        System.out.println("Blebel");
 
         for (SoundMaker animal : animals) {
             animal.makeSound();
