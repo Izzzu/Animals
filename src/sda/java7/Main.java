@@ -15,9 +15,13 @@ public class Main {
         animals.add(dog);
         animals.add(girrafe);
 
+        int number = 2;
+
         System.out.println("Abcdeefefefedef");
+
         System.out.println("branczebranczebrancze");
         System.out.println("cokolwiek3");
+
         System.out.println("Blebel");
 
         System.out.println("cos tam2");
