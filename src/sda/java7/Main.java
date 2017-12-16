@@ -17,17 +17,6 @@ public class Main {
 
         int number = 2;
 
-        System.out.println("Abcdeefefefedef");
-
-        System.out.println("branczebranczebrancze");
-        System.out.println("cokolwiek3");
-
-        System.out.println("Blebel");
-
-        System.out.println("cos tam2");
-
-
-
         for (SoundMaker animal : animals) {
             animal.makeSound();
         }
