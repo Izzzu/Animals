@@ -25,7 +25,6 @@ public class Main {
         System.out.println("branczebranczebrancze");
         System.out.println("cokolwiek3");
 
-        System.out.println("Blebel");
 
         System.out.println("cos tam2");
 
