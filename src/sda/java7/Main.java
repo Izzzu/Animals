@@ -16,6 +16,7 @@ public class Main {
         animals.add(girrafe);
 
         System.out.println("Abcdeefefefedef");
+        System.out.println("branczebranczebrancze");
         System.out.println("cokolwiek3");
         System.out.println("Blebel");
 
