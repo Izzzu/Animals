@@ -17,6 +17,10 @@ public class Main {
 
         System.out.println("cos tam");
 
+        System.out.println("cos tam2");
+
+
+
         for (SoundMaker animal : animals) {
             animal.makeSound();
         }
