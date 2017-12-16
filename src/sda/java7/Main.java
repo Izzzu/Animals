@@ -10,6 +10,7 @@ public class Main {
         SoundMaker dog = new Dog();
         SoundMaker girrafe = new Giraffe();
 
+        System.out.println("sjdfhksjf");
         List<SoundMaker> animals = new LinkedList<>();
         animals.add(cat);
         animals.add(dog);
