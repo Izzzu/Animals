@@ -15,7 +15,7 @@ public class Main {
         animals.add(dog);
         animals.add(girrafe);
 
-        System.out.println("cos tam");
+        System.out.println("Abcdeefefefedef");
         System.out.println("Blebel");
 
         System.out.println("cos tam2");
