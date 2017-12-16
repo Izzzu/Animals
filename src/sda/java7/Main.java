@@ -31,6 +31,7 @@ public class Main {
 
 
         System.out.println("cos tam2ff");
+        System.out.println("cos tam2ff");
 
         System.out.println("Branch izy");
         System.out.println("Branch izy");
