@@ -15,6 +15,8 @@ public class Main {
         animals.add(dog);
         animals.add(girrafe);
 
+        System.out.println("cos tam");
+
         for (SoundMaker animal : animals) {
             animal.makeSound();
         }
